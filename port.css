@@ -172,6 +172,12 @@ section .title::after{
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
+.me{
+    left: 50%;
+    top: -21%;
+    position: absolute;
+    
+}
 .home .max-width{
   width: 100%;
   display: flex;
